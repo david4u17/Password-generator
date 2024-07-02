@@ -1,5 +1,10 @@
 # Password Generator
 
+### Project Live Link
+
+[Visit the live version of the Password Generator](https://password-generator-liard-six.vercel.app)
+
+
 # Description
 This is a simple password generator that creates a random password based on user-selected criteria. Users can specify the desired length of the password and choose to include lowercase letters, uppercase letters, numbers, and symbols. The generated password can then be copied to the clipboard with a single click.
 
